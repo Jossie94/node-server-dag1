@@ -1,0 +1,5 @@
+{
+    "host": "http://localhost",
+    "port": 3003,
+    "docroot": "public"
+}
